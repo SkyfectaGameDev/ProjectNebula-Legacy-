@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Alpha-102_Burn02.png-4a8ee6caa9d8196b1d04b9c6919aeb12.stex"
+path="res://.import/Alpha-102_Burn01.png-afba28c774083f550d4d355ae5a2e1e9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Textures/Alpha-102_Burn02.png"
-dest_files=[ "res://.import/Alpha-102_Burn02.png-4a8ee6caa9d8196b1d04b9c6919aeb12.stex" ]
+source_file="res://Sprites/Alpha-102_Burn01.png"
+dest_files=[ "res://.import/Alpha-102_Burn01.png-afba28c774083f550d4d355ae5a2e1e9.stex" ]
 
 [params]
 
